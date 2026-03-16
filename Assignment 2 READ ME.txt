@@ -1,0 +1,16 @@
+Assignment 2: Review the provided building APIs in python track from DataCamp towards developing
+a simple frontend to visualize the TS and PV diagram of the processes governed by the equation of state 
+and Energy equation for the different non-flow process in the sample questions including;
+1. Constant Volume Process
+2. Constant Pressure Process
+3. Polytropic Process
+4. Adiabatic Process
+5. Isothermal Process
+
+Solution:
+Attached are the frontend visualizations
+A. https://assignment22py-d2tixoqrtg6awfnjasrqdz.streamlit.app/
+B. https://thermodynamics831-dzalquqmtpeanhjmfjr9xz.streamlit.app/
+
+A is the frontend visualization for processes 1-5.
+B is the frontend visualization for processes 1-5 using steam table (pyXSteam).
